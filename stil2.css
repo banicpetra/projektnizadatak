@@ -1,0 +1,67 @@
+/* CSS Document */
+p {
+	color: darkcyan;
+	font-family: Constamtia, "Lucida Bright", "DejaVu Serif", Geogria, "Serif";
+	font-size: 16px;
+	line-height: 18px;
+	width:600px;
+	background-color: white;
+	padding: 20px;
+}
+h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkcyan;
+}
+h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black;
+}
+h3 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkcyan;
+}
+
+
+}
+.paragraf_2 {color:white; background-color: darkgray}
+
+.pozadina{
+	background-image: url("slike/pozadina2.jpg");
+	background-color: darkcyan;
+}
+
+.drugapozadina {
+	background-color:lightgray;
+}
+.trećapozadina {
+	background-color:white;
+}
+	
+a:hover{
+	background-color: darkgray;
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000; 
+}
+img {
+	height: 600px;
+}
+
+#nav {
+width:525px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+}
